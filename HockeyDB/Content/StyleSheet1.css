@@ -1,0 +1,70 @@
+﻿body {
+    background-image: url(https://i.imgur.com/wuHEJCu.jpg);
+    background-attachment: fixed;
+    /*background-size: 1450px 950px;*/
+    background-size: contain;
+    font-size: 12.00px;
+    font-family: Verdana, Arial;
+    color: #FFFFFF;
+}
+
+fieldset{
+   border: solid 2px black;  
+   float:left;
+}
+
+table{
+	border-width: 0px 1px 1px 0px;
+    border-style: none;
+    border-color: #000000;
+    padding: 2px;
+    background-color: #000000;
+    opacity: 0.7;
+
+}
+#show{
+	border-width: 0px 1px 1px 0px;
+    border-style: none;
+    border-color: #000000;
+    padding: 2px;
+    background-color: #000000;
+    opacity: 0.7;
+    width: 225px;
+
+}
+
+h2{
+	color: black;
+
+}
+
+a:link {
+	color: #FFFFFF;
+}
+
+a:visited	{
+	color: #FFFFFF;
+}
+
+div.display-label {
+    color: black;
+}
+
+
+div.display-field {
+    color: black;
+}
+
+div.editor-label {
+    color: black;
+}
+
+
+div.editor-field {
+    color: black;
+}
+
+legend {
+    color: black;
+
+}
